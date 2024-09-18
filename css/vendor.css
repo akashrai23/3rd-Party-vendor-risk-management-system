@@ -1,0 +1,57 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+button{
+    height: 36px;
+    border: 1px solid black;
+    border-radius: 16px;
+    box-shadow: 0 0 4px black;
+    margin-top: 24px;
+    color: white;
+}
+button:active{
+    box-shadow: 0 0 4px black;
+}
+.add-button{
+    background-color: #048998;
+}
+.update-button{
+    background-color: #048998;
+}
+.report-button{
+    background-color: #048998;
+}
+#add_form{
+    margin-top: 48px;
+    height: auto;
+    display: none;
+}   
+#update_form{
+    margin-top: 48px;
+    display: none;
+}
+#report{
+    margin-top: 48px;
+}
+hr{
+    width: 100%;
+}
+.box{
+    padding: 2% 0;
+    background-color: #04899816;
+}
+.download{
+    height: 48px;
+    background-color:#048998;
+    border: 1px solid black;
+    border-radius: 8px;
+    color: white;
+    text-decoration: white;
+}
+
+.audiowide-regular {
+    font-family: "Audiowide", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
